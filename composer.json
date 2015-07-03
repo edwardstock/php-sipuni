@@ -1,0 +1,17 @@
+{
+    "name": "edwardstock/php-sipuni",
+    "description": "PHP SipUni Client",
+    "type": "library",
+    "require": {
+        "edwardstock/php-curl-class": "dev-master"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduard Maximovich",
+            "email": "edward.vstock@gmail.com",
+	        "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev"
+}
