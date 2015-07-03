@@ -1,5 +1,6 @@
 {
     "name": "edwardstock/php-sipuni",
+	"version": "0.0.1",
     "description": "PHP SipUni Client",
     "type": "library",
     "require": {
