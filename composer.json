@@ -3,9 +3,6 @@
 	"version": "0.0.1",
     "description": "PHP SipUni Client",
     "type": "library",
-    "require": {
-        "edwardstock/php-curl-class": "dev-master"
-    },
     "license": "MIT",
     "authors": [
         {
@@ -14,5 +11,9 @@
 	        "role": "Developer"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+	"require": {
+		"phpunit/phpunit": "^4.7",
+		"edwardstock/php-curl-class": "dev-master"
+	}
 }
